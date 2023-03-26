@@ -31,6 +31,39 @@
         <Class IRI="#SeaGame1"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Brunei"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Campuchia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Indonesia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Laos"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Malaysia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Myanmar"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Philippines"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Singapore"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Thailand"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Timor-Leste"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#VietNam"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#1959"/>
     </Declaration>
     <Declaration>
@@ -143,6 +176,14 @@
         <Class IRI="#SeaGame1"/>
         <Class IRI="#KySeaGame"/>
     </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#NamToChuc"/>
         <NamedIndividual IRI="#2021"/>
