@@ -31,6 +31,96 @@
         <Class IRI="#SeaGame1"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#SeaGame10"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame11"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame12"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame13"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame14"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame15"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame16"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame17"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame18"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame19"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame20"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame21"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame22"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame23"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame24"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame25"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame26"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame27"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame28"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame29"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame30"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame31"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame8"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame9"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Aerobic"/>
     </Declaration>
     <Declaration>
@@ -335,6 +425,159 @@
         <Class IRI="#SeaGame1"/>
         <Class IRI="#KySeaGame"/>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame10"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame11"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame12"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame13"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame14"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame15"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame16"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame17"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame18"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame19"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame2"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame20"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame21"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame22"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame23"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame24"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame25"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame26"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame27"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame28"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame29"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame3"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame30"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame31"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame4"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame5"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame6"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame7"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame8"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame9"/>
+        <Class IRI="#KySeaGame"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#SeaGame1"/>
+        <Class IRI="#SeaGame10"/>
+        <Class IRI="#SeaGame11"/>
+        <Class IRI="#SeaGame12"/>
+        <Class IRI="#SeaGame13"/>
+        <Class IRI="#SeaGame14"/>
+        <Class IRI="#SeaGame15"/>
+        <Class IRI="#SeaGame16"/>
+        <Class IRI="#SeaGame17"/>
+        <Class IRI="#SeaGame18"/>
+        <Class IRI="#SeaGame19"/>
+        <Class IRI="#SeaGame2"/>
+        <Class IRI="#SeaGame20"/>
+        <Class IRI="#SeaGame21"/>
+        <Class IRI="#SeaGame22"/>
+        <Class IRI="#SeaGame23"/>
+        <Class IRI="#SeaGame24"/>
+        <Class IRI="#SeaGame25"/>
+        <Class IRI="#SeaGame26"/>
+        <Class IRI="#SeaGame27"/>
+        <Class IRI="#SeaGame28"/>
+        <Class IRI="#SeaGame29"/>
+        <Class IRI="#SeaGame3"/>
+        <Class IRI="#SeaGame30"/>
+        <Class IRI="#SeaGame31"/>
+        <Class IRI="#SeaGame4"/>
+        <Class IRI="#SeaGame5"/>
+        <Class IRI="#SeaGame6"/>
+        <Class IRI="#SeaGame7"/>
+        <Class IRI="#SeaGame8"/>
+        <Class IRI="#SeaGame9"/>
+    </DisjointClasses>
     <ClassAssertion>
         <Class IRI="#MonTheThao"/>
         <NamedIndividual IRI="#Aerobic"/>
