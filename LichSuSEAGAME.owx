@@ -163,6 +163,9 @@
         <NamedIndividual IRI="#Bóng_ném_bãi_biển"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Bóng_nước"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Bóng_quần"/>
     </Declaration>
     <Declaration>
@@ -170,6 +173,9 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Bóng_đá"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bơi_lội"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Bắn_cung"/>
@@ -595,7 +601,15 @@
         <NamedIndividual IRI="#Bi_sắt"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
+        <NamedIndividual IRI="#Bi_sắt"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Billiards"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
         <NamedIndividual IRI="#Billiards"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -611,11 +625,19 @@
         <NamedIndividual IRI="#Bóng_bàn"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#MonTheThao"/>
         <NamedIndividual IRI="#Bóng_bầu_dục_bảy_người"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
         <NamedIndividual IRI="#Bóng_chuyền"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -643,11 +665,23 @@
         <NamedIndividual IRI="#Bóng_rổ"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#MonTheThao"/>
         <NamedIndividual IRI="#Bóng_đá"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
         <NamedIndividual IRI="#Bắn_cung"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -916,6 +950,10 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#2001"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
         <NamedIndividual IRI="#2001"/>
     </ClassAssertion>
     <ClassAssertion>
