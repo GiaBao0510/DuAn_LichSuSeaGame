@@ -524,6 +524,10 @@
         <Class IRI="#SeaGame"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#SeaGame21"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#SeaGames1"/>
         <Class IRI="#KySeaGames"/>
     </SubClassOf>
