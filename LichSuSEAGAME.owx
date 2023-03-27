@@ -504,6 +504,9 @@
     <Declaration>
         <NamedIndividual IRI="#2021"/>
     </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame21"/>
+    </Declaration>
     <SubClassOf>
         <Class IRI="#KySeaGames"/>
         <Class IRI="#SeaGame"/>
@@ -751,6 +754,10 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_nước"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
         <NamedIndividual IRI="#Bóng_quần"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -768,6 +775,10 @@
     <ClassAssertion>
         <Class IRI="#SeaGame21"/>
         <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bơi_lội"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#MonTheThao"/>
