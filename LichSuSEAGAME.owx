@@ -1,0 +1,3022 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/dell/ontologies/2023/2/LichSuSeaGame"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/dell/ontologies/2023/2/LichSuSeaGame">
+    <Prefix name="" IRI="http://www.semanticweb.org/dell/ontologies/2023/2/LichSuSeaGame"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#KySeaGames"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MonTheThao"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NamToChuc"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QuocGia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGame21"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames10"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames11"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames12"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames13"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames14"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames15"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames16"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames17"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames18"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames19"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames20"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames21"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames22"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames23"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames24"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames25"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames26"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames27"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames28"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames29"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames30"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames31"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames8"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeaGames9"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames1"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames10"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames11"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames12"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames13"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames14"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames15"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames16"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames17"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames18"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames19"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames2"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames20"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames21"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames22"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames23"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames24"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames25"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames26"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames27"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames28"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames29"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames3"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames30"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames31"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames4"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames5"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames6"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames7"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames8"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasSeaGames9"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Aerobic"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Artistic"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Ba_môn_phối_hợp"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bi_sắt"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Billiards"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bowling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Brunei"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bóng_bầu_dục_bảy_người"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bóng_chày"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bóng_lưới"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bóng_mềm"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bóng_ném_bãi_biển"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bóng_nước"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bóng_quần"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bơi_lội"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Campuchia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Chèo_thuyền"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cờ_vua"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Golf"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hai_môn_thể_thao"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Indonesia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Khiêu_vũ_thể_thao"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Khúc_côn_cầu"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Khúc_côn_cầu_trên_cứng"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Laos"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Lướt_sóng"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Lướt_ván_buồm"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Malaysia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Miến_Điện"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Myanmar"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Năm_môn_phối_hợp_hiện_đại"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Pencak_silat"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Philippines"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Polo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Rhythmic"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Sambo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Singapore"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Soft_tennis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Thailand"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Thuyền_buồm"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Thể_dục_dụng_cụ"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Thể_thao_dưới_nước"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Thể_thao_điện_tử"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Timor-Leste"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Trượt_băng_nghệ_thuật"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Trượt_ván"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#VietNam"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Võ_gậy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Võ_thuật"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Vượt_chướng_ngại_vật"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Wakeboarding"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Đua_thuyền"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Đấu_kiếm"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Đấu_vật"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1959"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1961"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1965"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1967"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1969"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1971"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1973"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1975"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1977"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1979"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1981"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1983"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1985"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1987"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1989"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1991"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1993"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1995"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1997"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#1999"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2001"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2003"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2005"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2007"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2009"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2011"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2013"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2015"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2017"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2019"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#2021"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#KySeaGames"/>
+        <Class IRI="#SeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MonTheThao"/>
+        <Class IRI="#SeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NamToChuc"/>
+        <Class IRI="#SeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QuocGia"/>
+        <Class IRI="#SeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGame21"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames1"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames10"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames11"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames12"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames13"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames14"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames15"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames16"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames17"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames18"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames19"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames2"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames20"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames21"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames22"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames23"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames24"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames25"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames26"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames27"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames28"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames29"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames3"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames30"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames31"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames4"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames5"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames6"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames7"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames8"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeaGames9"/>
+        <Class IRI="#KySeaGames"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Aerobic"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Artistic"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Ba_môn_phối_hợp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bi_sắt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
+        <NamedIndividual IRI="#Bi_sắt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Billiards"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
+        <NamedIndividual IRI="#Billiards"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Billiards"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bowling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Bowling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Bowling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Bowling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Bowling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Bowling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Bowling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Bowling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Bowling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Bowling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Bowling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Bóng_bàn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_bầu_dục_bảy_người"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Bóng_bầu_dục_bảy_người"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Bóng_bầu_dục_bảy_người"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Bóng_chuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_chày"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_lưới"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_mềm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Bóng_mềm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Bóng_mềm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Bóng_mềm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Bóng_mềm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_ném_bãi_biển"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_nước"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_quần"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Bóng_quần"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Bóng_quần"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Bóng_quần"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Bóng_rổ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Bóng_đá"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bơi_lội"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Bắn_cung"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Bắn_súng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Campuchia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Campuchia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Campuchia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Campuchia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Campuchia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Campuchia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Campuchia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Campuchia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Campuchia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Campuchia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Chèo_thuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Chèo_thuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Chèo_thuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Chèo_thuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Chèo_thuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Chèo_thuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Chèo_thuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Cầu_lông"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Cờ_vua"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Cử_tạ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Golf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Golf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Golf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Golf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Golf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Golf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Golf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Golf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Hai_môn_thể_thao"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Khiêu_vũ_thể_thao"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Khúc_côn_cầu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Khúc_côn_cầu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Khúc_côn_cầu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Khúc_côn_cầu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Khúc_côn_cầu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Khúc_côn_cầu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Khúc_côn_cầu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Khúc_côn_cầu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Khúc_côn_cầu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Khúc_côn_cầu"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Khúc_côn_cầu_trên_cứng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Lướt_sóng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Lướt_sóng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Lướt_sóng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Lướt_ván_buồm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Malaysia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Miến_Điện"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Miến_Điện"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Miến_Điện"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Miến_Điện"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Miến_Điện"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Năm_môn_phối_hợp_hiện_đại"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Pencak_silat"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Pencak_silat"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Pencak_silat"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Polo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Quyền_Anh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Quần_vợt"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Rhythmic"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Sambo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Soft_tennis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Thailand"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Thuyền_buồm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Thuyền_buồm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Thuyền_buồm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Thể_dục_dụng_cụ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Thể_dục_dụng_cụ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Thể_dục_dụng_cụ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Thể_dục_dụng_cụ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Thể_dục_dụng_cụ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Thể_dục_dụng_cụ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Thể_dục_dụng_cụ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Thể_thao_dưới_nước"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Thể_thao_dưới_nước"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Thể_thao_dưới_nước"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Thể_thao_dưới_nước"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Thể_thao_dưới_nước"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Thể_thao_dưới_nước"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Thể_thao_điện_tử"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Timor-Leste"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Trượt_băng_nghệ_thuật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Trượt_ván"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#VietNam"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Võ_gậy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Võ_thuật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Võ_thuật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#Võ_thuật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Võ_thuật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Võ_thuật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#Võ_thuật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#Võ_thuật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Võ_thuật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Võ_thuật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Vượt_chướng_ngại_vật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Wakeboarding"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Xe_đạp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#Điền_kinh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Đua_thuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Đua_thuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#Đua_thuyền"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Đấu_kiếm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Đấu_kiếm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#Đấu_kiếm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#MonTheThao"/>
+        <NamedIndividual IRI="#Đấu_vật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#Đấu_vật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#Đấu_vật"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1959"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames1"/>
+        <NamedIndividual IRI="#1959"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1961"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames2"/>
+        <NamedIndividual IRI="#1961"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1965"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames3"/>
+        <NamedIndividual IRI="#1965"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1967"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames4"/>
+        <NamedIndividual IRI="#1967"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1969"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames5"/>
+        <NamedIndividual IRI="#1969"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1971"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames6"/>
+        <NamedIndividual IRI="#1971"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1973"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames7"/>
+        <NamedIndividual IRI="#1973"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1975"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames8"/>
+        <NamedIndividual IRI="#1975"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1977"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames9"/>
+        <NamedIndividual IRI="#1977"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1979"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames10"/>
+        <NamedIndividual IRI="#1979"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1981"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames11"/>
+        <NamedIndividual IRI="#1981"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1983"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames12"/>
+        <NamedIndividual IRI="#1983"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1985"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames13"/>
+        <NamedIndividual IRI="#1985"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1987"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames14"/>
+        <NamedIndividual IRI="#1987"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1989"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames15"/>
+        <NamedIndividual IRI="#1989"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1991"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames16"/>
+        <NamedIndividual IRI="#1991"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1993"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames17"/>
+        <NamedIndividual IRI="#1993"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1995"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames18"/>
+        <NamedIndividual IRI="#1995"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1997"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames19"/>
+        <NamedIndividual IRI="#1997"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#1999"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGames20"/>
+        <NamedIndividual IRI="#1999"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#2001"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeaGame21"/>
+        <NamedIndividual IRI="#2001"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#2003"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#2005"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#2007"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#2009"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#2011"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#2013"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#2015"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#2017"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#2019"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NamToChuc"/>
+        <NamedIndividual IRI="#2021"/>
+    </ClassAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames1"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames10"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames11"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames12"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames13"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames14"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames15"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames16"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames17"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames18"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames19"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames2"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames20"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames21"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames22"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames23"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames24"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames25"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames26"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames27"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames28"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames29"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames3"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames30"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames31"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames4"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames5"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames6"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames7"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames8"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#hasSeaGames9"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasSeaGames1"/>
+        <Class IRI="#SeaGames1"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasSeaGames1"/>
+        <Class IRI="#MonTheThao"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
