@@ -430,6 +430,9 @@
         <ObjectProperty IRI="#Tổ_chức"/>
     </Declaration>
     <Declaration>
+        <ObjectProperty IRI="#Tổ_chức_có_linh_vật"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#Tổ_chức_vào_năm"/>
     </Declaration>
     <Declaration>
@@ -6746,6 +6749,10 @@
         <ObjectProperty IRI="#Tổ_chức"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
+        <ObjectProperty IRI="#Tổ_chức_có_linh_vật"/>
+        <ObjectProperty IRI="#Tổ_chức_có_linh_vật"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
         <ObjectProperty IRI="#Tổ_chức_vào_năm"/>
         <ObjectProperty IRI="#Tổ_chức_vào_năm"/>
     </InverseObjectProperties>
@@ -6778,6 +6785,10 @@
         <Class IRI="#QuocGia"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Tổ_chức_có_linh_vật"/>
+        <Class IRI="#NamToChuc"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
         <ObjectProperty IRI="#Tổ_chức_vào_năm"/>
         <Class IRI="#KySeaGames"/>
     </ObjectPropertyDomain>
@@ -6808,6 +6819,10 @@
     <ObjectPropertyRange>
         <ObjectProperty IRI="#Tổ_chức"/>
         <Class IRI="#NamToChuc"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Tổ_chức_có_linh_vật"/>
+        <Class IRI="#LinhVat"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#Tổ_chức_vào_năm"/>
