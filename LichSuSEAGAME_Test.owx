@@ -418,6 +418,9 @@
         <ObjectProperty IRI="#Có_phụ_kiện_cho_thể_thao_võ_thuật_là"/>
     </Declaration>
     <Declaration>
+        <ObjectProperty IRI="#Có_tổng_số_huy_chương_là"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#Diễn_ra_tại"/>
     </Declaration>
     <Declaration>
@@ -1557,9 +1560,6 @@
     <Declaration>
         <NamedIndividual IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
     </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Đôi_thỏ_mặc_trang_phục_truyền_thống_Khmer._Borey_(xanh_dương),_Rumduol_(màu_đỏ)"/>
-    </Declaration>
     <SubClassOf>
         <Class IRI="#Aerobic"/>
         <Class IRI="#MonTheThao"/>
@@ -1990,7 +1990,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Seagame_4"/>
-        <Class IRI="#Seagame_6"/>
+        <Class IRI="#Ket_Qua"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Seagame_5"/>
@@ -2134,6 +2134,26 @@
         <Class IRI="#ThaiLand"/>
         <Class IRI="#Timor_Leste"/>
         <Class IRI="#VietNam"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Ket_Qua"/>
+        <Class IRI="#KySeaGames"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Ket_Qua"/>
+        <Class IRI="#NamToChuc"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#KySeaGames"/>
+        <Class IRI="#LinhVat"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#LinhVat"/>
+        <Class IRI="#NamToChuc"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#LinhVat"/>
+        <Class IRI="#QuocGia"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#Seagame_1"/>
@@ -3585,7 +3605,15 @@
         <NamedIndividual IRI="#Con_Sao_la"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#LinhVat"/>
+        <NamedIndividual IRI="#Con_Sao_la"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Con_gà_trống_ở_miền_núi_đầy_màu_sắc"/>
+        <NamedIndividual IRI="#Con_gà_trống_ở_miền_núi_đầy_màu_sắc"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LinhVat"/>
         <NamedIndividual IRI="#Con_gà_trống_ở_miền_núi_đầy_màu_sắc"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -3593,7 +3621,15 @@
         <NamedIndividual IRI="#Con_hổ_Mã_Lai"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#LinhVat"/>
+        <NamedIndividual IRI="#Con_hổ_Mã_Lai"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Con_mèo_Xiêm"/>
+        <NamedIndividual IRI="#Con_mèo_Xiêm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LinhVat"/>
         <NamedIndividual IRI="#Con_mèo_Xiêm"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -3601,7 +3637,15 @@
         <NamedIndividual IRI="#Con_mèo_Xiêm_cầm_ô_truyền_thống_Thái_Lan"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#LinhVat"/>
+        <NamedIndividual IRI="#Con_mèo_Xiêm_cầm_ô_truyền_thống_Thái_Lan"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Con_rùa_vàng"/>
+        <NamedIndividual IRI="#Con_rùa_vàng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LinhVat"/>
         <NamedIndividual IRI="#Con_rùa_vàng"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -3609,7 +3653,15 @@
         <NamedIndividual IRI="#Con_sóc_vàng"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#LinhVat"/>
+        <NamedIndividual IRI="#Con_sóc_vàng"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Con_sư_tử"/>
+        <NamedIndividual IRI="#Con_sư_tử"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LinhVat"/>
         <NamedIndividual IRI="#Con_sư_tử"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -3617,11 +3669,23 @@
         <NamedIndividual IRI="#Con_sư_tử_với_bờm_đỏ_và_khuôn_mặt_hình_trái_tim"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#LinhVat"/>
+        <NamedIndividual IRI="#Con_sư_tử_với_bờm_đỏ_và_khuôn_mặt_hình_trái_tim"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Con_trâu_vàng"/>
         <NamedIndividual IRI="#Con_trâu_vàng"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#LinhVat"/>
+        <NamedIndividual IRI="#Con_trâu_vàng"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Con_đại_bàng_Philippines"/>
+        <NamedIndividual IRI="#Con_đại_bàng_Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LinhVat"/>
         <NamedIndividual IRI="#Con_đại_bàng_Philippines"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -3862,6 +3926,10 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Cậu_bé_Brunei"/>
+        <NamedIndividual IRI="#Cậu_bé_Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LinhVat"/>
         <NamedIndividual IRI="#Cậu_bé_Brunei"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -4214,6 +4282,10 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Hình_tượng_quả_bóng_xốp"/>
+        <NamedIndividual IRI="#Hình_tượng_quả_bóng_xốp"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LinhVat"/>
         <NamedIndividual IRI="#Hình_tượng_quả_bóng_xốp"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -4857,6 +4929,10 @@
         <NamedIndividual IRI="#Máy_tính"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#LinhVat"/>
+        <NamedIndividual IRI="#Mèo_Korat_cầm_khèn_bè"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Mèo_Korat_cầm_khèn_bè"/>
         <NamedIndividual IRI="#Mèo_Korat_cầm_khèn_bè"/>
     </ClassAssertion>
@@ -4871,6 +4947,10 @@
     <ClassAssertion>
         <Class IRI="#PhuKien"/>
         <NamedIndividual IRI="#Mặt_nạ_bảo_vệ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LinhVat"/>
+        <NamedIndividual IRI="#Nhân_vật_khỉ_trắng_trong_thiên_sử_Ramayana"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Nhân_vật_khỉ_trắng_trong_thiên_sử_Ramayana"/>
@@ -6245,6 +6325,10 @@
         <NamedIndividual IRI="#Đồng_hồ_đo_nhịp_tim"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#LinhVat"/>
+        <NamedIndividual IRI="#&apos;&apos;Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào&apos;&apos;"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào"/>
         <NamedIndividual IRI="#&apos;&apos;Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào&apos;&apos;"/>
     </ClassAssertion>
@@ -6945,6 +7029,10 @@
         <NamedIndividual IRI="#97_Bac"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#LinhVat"/>
+        <NamedIndividual IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
         <NamedIndividual IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
     </ClassAssertion>
@@ -6961,6 +7049,10 @@
         <ObjectProperty IRI="#Có_phụ_kiện_cho_thể_thao_võ_thuật_là"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
+        <ObjectProperty IRI="#Có_tổng_số_huy_chương_là"/>
+        <ObjectProperty IRI="#Có_tổng_số_huy_chương_là"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
         <ObjectProperty IRI="#Diễn_ra_tại"/>
         <ObjectProperty IRI="#Diễn_ra_tại"/>
     </InverseObjectProperties>
@@ -6995,6 +7087,10 @@
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#Có_phụ_kiện_cho_thể_thao_võ_thuật_là"/>
         <Class IRI="#PhuKien"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Có_tổng_số_huy_chương_là"/>
+        <Class IRI="#KySeaGames"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#Diễn_ra_tại"/>
@@ -7031,6 +7127,10 @@
     <ObjectPropertyRange>
         <ObjectProperty IRI="#Có_phụ_kiện_cho_thể_thao_võ_thuật_là"/>
         <Class IRI="#Vo_thuat"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Có_tổng_số_huy_chương_là"/>
+        <Class IRI="#Ket_Qua"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#Diễn_ra_tại"/>
