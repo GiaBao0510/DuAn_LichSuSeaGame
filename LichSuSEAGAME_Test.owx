@@ -2148,12 +2148,24 @@
         <Class IRI="#LinhVat"/>
     </DisjointClasses>
     <DisjointClasses>
+        <Class IRI="#KySeaGames"/>
+        <Class IRI="#MonTheThao"/>
+    </DisjointClasses>
+    <DisjointClasses>
         <Class IRI="#LinhVat"/>
         <Class IRI="#NamToChuc"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#LinhVat"/>
         <Class IRI="#QuocGia"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#MonTheThao"/>
+        <Class IRI="#NamToChuc"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#MonTheThao"/>
+        <Class IRI="#PhuKien"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#Seagame_1"/>
@@ -2394,6 +2406,10 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Brunei"/>
+        <NamedIndividual IRI="#Brunei"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
         <NamedIndividual IRI="#Brunei"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -3465,6 +3481,10 @@
         <NamedIndividual IRI="#Campuchia"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Campuchia"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#SeaGames1"/>
         <NamedIndividual IRI="#Campuchia"/>
     </ClassAssertion>
@@ -4297,6 +4317,10 @@
         <NamedIndividual IRI="#Indonesia"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Indonesia"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#SeaGames10"/>
         <NamedIndividual IRI="#Indonesia"/>
     </ClassAssertion>
@@ -4526,6 +4550,10 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Laos"/>
+        <NamedIndividual IRI="#Laos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
         <NamedIndividual IRI="#Laos"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -4789,6 +4817,10 @@
         <NamedIndividual IRI="#Miến_Điện"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Miến_Điện"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#SeaGames11"/>
         <NamedIndividual IRI="#Miến_Điện"/>
     </ClassAssertion>
@@ -4810,6 +4842,10 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Myanmar"/>
+        <NamedIndividual IRI="#Myanmar"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
         <NamedIndividual IRI="#Myanmar"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -4974,6 +5010,10 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Philippines"/>
+        <NamedIndividual IRI="#Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
         <NamedIndividual IRI="#Philippines"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -5385,6 +5425,10 @@
         <NamedIndividual IRI="#Sambo"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Singapore"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#SeaGames1"/>
         <NamedIndividual IRI="#Singapore"/>
     </ClassAssertion>
@@ -5515,6 +5559,10 @@
     <ClassAssertion>
         <Class IRI="#PhuKien"/>
         <NamedIndividual IRI="#Tai_nghe"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Thailand"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#SeaGames1"/>
@@ -5749,6 +5797,10 @@
         <NamedIndividual IRI="#Thể_thao_điện_tử"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#Timor-Leste"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#SeaGames22"/>
         <NamedIndividual IRI="#Timor-Leste"/>
     </ClassAssertion>
@@ -5851,6 +5903,10 @@
     <ClassAssertion>
         <Class IRI="#PhuKien"/>
         <NamedIndividual IRI="#Tạ_đơn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#QuocGia"/>
+        <NamedIndividual IRI="#VietNam"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#SeaGames1"/>
