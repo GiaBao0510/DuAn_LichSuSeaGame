@@ -49,7 +49,43 @@
         <Class IRI="#Cau_may"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Con_Sao_la"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Con_gà_trống_ở_miền_núi_đầy_màu_sắc"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Con_hổ_Mã_Lai"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Con_mèo_Xiêm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Con_mèo_Xiêm_cầm_ô_truyền_thống_Thái_Lan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Con_rùa_vàng"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Con_sóc_vàng"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Con_sư_tử"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Con_sư_tử_với_bờm_đỏ_và_khuôn_mặt_hình_trái_tim"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Con_trâu_vàng"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Con_đại_bàng_Philippines"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Cu_ta"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cậu_bé_Brunei"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Dau_kiem"/>
@@ -59,6 +95,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#Hai_mon_the_thao"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hình_tượng_quả_bóng_xốp"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Indonesia"/>
@@ -82,6 +121,9 @@
         <Class IRI="#Laos"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#LinhVat"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Malaysia"/>
     </Declaration>
     <Declaration>
@@ -94,10 +136,16 @@
         <Class IRI="#Myanmar"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Mèo_Korat_cầm_khèn_bè"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#NamToChuc"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Nam_mon_phoi_hop_hien_dai"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Nhân_vật_khỉ_trắng_trong_thiên_sử_Ramayana"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Philippines"/>
@@ -352,6 +400,18 @@
         <Class IRI="#Wakeboarding"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Đôi_cú"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Đôi_thỏ_mặc_trang_phục_truyền_thống_Khmer._Borey_(xanh_dương),_Rumduol_(màu_đỏ)"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#Có_phụ_kiện_cho_môn_thể_thao_dưới_nướ_là"/>
     </Declaration>
     <Declaration>
@@ -532,6 +592,39 @@
         <NamedIndividual IRI="#Chèo_thuyền"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Con_Sao_la"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Con_gà_trống_ở_miền_núi_đầy_màu_sắc"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Con_hổ_Mã_Lai"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Con_mèo_Xiêm"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Con_mèo_Xiêm_cầm_ô_truyền_thống_Thái_Lan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Con_rùa_vàng"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Con_sóc_vàng"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Con_sư_tử"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Con_sư_tử_với_bờm_đỏ_và_khuôn_mặt_hình_trái_tim"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Con_trâu_vàng"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Con_đại_bàng_Philippines"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Cung"/>
     </Declaration>
     <Declaration>
@@ -551,6 +644,9 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Cầu_mây"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cậu_bé_Brunei"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Cờ_tướng"/>
@@ -664,6 +760,9 @@
         <NamedIndividual IRI="#Hoa"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Hình_tượng_quả_bóng_xốp"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Hộp_dựng_que"/>
     </Declaration>
     <Declaration>
@@ -754,6 +853,9 @@
         <NamedIndividual IRI="#Máy_tính"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Mèo_Korat_cầm_khèn_bè"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Mũ_bảo_hiểm"/>
     </Declaration>
     <Declaration>
@@ -761,6 +863,9 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Mặt_nạ_bảo_vệ"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Nhân_vật_khỉ_trắng_trong_thiên_sử_Ramayana"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Nón"/>
@@ -1060,6 +1165,9 @@
         <NamedIndividual IRI="#Đua_thuyền_Rowing"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Đôi_cú"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Đĩa_tạ"/>
     </Declaration>
     <Declaration>
@@ -1082,6 +1190,9 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Đồng_hồ_đo_nhịp_tim"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#&apos;&apos;Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào&apos;&apos;"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#102_Vang"/>
@@ -1272,6 +1383,12 @@
     <Declaration>
         <NamedIndividual IRI="#97_Bac"/>
     </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Đôi_thỏ_mặc_trang_phục_truyền_thống_Khmer._Borey_(xanh_dương),_Rumduol_(màu_đỏ)"/>
+    </Declaration>
     <SubClassOf>
         <Class IRI="#Aerobic"/>
         <Class IRI="#MonTheThao"/>
@@ -1321,8 +1438,56 @@
         <Class IRI="#MonTheThao"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Con_Sao_la"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Con_gà_trống_ở_miền_núi_đầy_màu_sắc"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Con_hổ_Mã_Lai"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Con_mèo_Xiêm"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Con_mèo_Xiêm_cầm_ô_truyền_thống_Thái_Lan"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Con_rùa_vàng"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Con_sóc_vàng"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Con_sư_tử"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Con_sư_tử_với_bờm_đỏ_và_khuôn_mặt_hình_trái_tim"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Con_trâu_vàng"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Con_đại_bàng_Philippines"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Cu_ta"/>
         <Class IRI="#MonTheThao"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cậu_bé_Brunei"/>
+        <Class IRI="#LinhVat"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Dau_kiem"/>
@@ -1335,6 +1500,10 @@
     <SubClassOf>
         <Class IRI="#Hai_mon_the_thao"/>
         <Class IRI="#MonTheThao"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hình_tượng_quả_bóng_xốp"/>
+        <Class IRI="#LinhVat"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Indonesia"/>
@@ -1365,6 +1534,10 @@
         <Class IRI="#QuocGia"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#LinhVat"/>
+        <Class IRI="#SeaGame"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Malaysia"/>
         <Class IRI="#QuocGia"/>
     </SubClassOf>
@@ -1381,12 +1554,20 @@
         <Class IRI="#QuocGia"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Mèo_Korat_cầm_khèn_bè"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#NamToChuc"/>
         <Class IRI="#SeaGame"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Nam_mon_phoi_hop_hien_dai"/>
         <Class IRI="#MonTheThao"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Nhân_vật_khỉ_trắng_trong_thiên_sử_Ramayana"/>
+        <Class IRI="#LinhVat"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Philippines"/>
@@ -1638,7 +1819,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Seagame_4"/>
-        <Class IRI="#Ket_Qua"/>
+        <Class IRI="#Seagame_6"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Seagame_5"/>
@@ -1720,6 +1901,22 @@
         <Class IRI="#Wakeboarding"/>
         <Class IRI="#MonTheThao"/>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Đôi_cú"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Đôi_thỏ_mặc_trang_phục_truyền_thống_Khmer._Borey_(xanh_dương),_Rumduol_(màu_đỏ)"/>
+        <Class IRI="#LinhVat"/>
+    </SubClassOf>
     <DisjointClasses>
         <Class IRI="#Aerobic"/>
         <Class IRI="#Artistic"/>
@@ -1770,6 +1967,27 @@
         <Class IRI="#ThaiLand"/>
         <Class IRI="#Timor_Leste"/>
         <Class IRI="#VietNam"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Con_Sao_la"/>
+        <Class IRI="#Con_gà_trống_ở_miền_núi_đầy_màu_sắc"/>
+        <Class IRI="#Con_hổ_Mã_Lai"/>
+        <Class IRI="#Con_mèo_Xiêm"/>
+        <Class IRI="#Con_mèo_Xiêm_cầm_ô_truyền_thống_Thái_Lan"/>
+        <Class IRI="#Con_rùa_vàng"/>
+        <Class IRI="#Con_sóc_vàng"/>
+        <Class IRI="#Con_sư_tử"/>
+        <Class IRI="#Con_sư_tử_với_bờm_đỏ_và_khuôn_mặt_hình_trái_tim"/>
+        <Class IRI="#Con_trâu_vàng"/>
+        <Class IRI="#Con_đại_bàng_Philippines"/>
+        <Class IRI="#Cậu_bé_Brunei"/>
+        <Class IRI="#Hình_tượng_quả_bóng_xốp"/>
+        <Class IRI="#Mèo_Korat_cầm_khèn_bè"/>
+        <Class IRI="#Nhân_vật_khỉ_trắng_trong_thiên_sử_Ramayana"/>
+        <Class IRI="#Đôi_cú"/>
+        <Class IRI="#Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào"/>
+        <Class IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
+        <Class IRI="#Đôi_thỏ_mặc_trang_phục_truyền_thống_Khmer._Borey_(xanh_dương),_Rumduol_(màu_đỏ)"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#Seagame_1"/>
@@ -3217,6 +3435,50 @@
         <NamedIndividual IRI="#Chèo_thuyền"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Con_Sao_la"/>
+        <NamedIndividual IRI="#Con_Sao_la"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_gà_trống_ở_miền_núi_đầy_màu_sắc"/>
+        <NamedIndividual IRI="#Con_gà_trống_ở_miền_núi_đầy_màu_sắc"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_hổ_Mã_Lai"/>
+        <NamedIndividual IRI="#Con_hổ_Mã_Lai"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_mèo_Xiêm"/>
+        <NamedIndividual IRI="#Con_mèo_Xiêm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_mèo_Xiêm_cầm_ô_truyền_thống_Thái_Lan"/>
+        <NamedIndividual IRI="#Con_mèo_Xiêm_cầm_ô_truyền_thống_Thái_Lan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_rùa_vàng"/>
+        <NamedIndividual IRI="#Con_rùa_vàng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_sóc_vàng"/>
+        <NamedIndividual IRI="#Con_sóc_vàng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_sư_tử"/>
+        <NamedIndividual IRI="#Con_sư_tử"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_sư_tử_với_bờm_đỏ_và_khuôn_mặt_hình_trái_tim"/>
+        <NamedIndividual IRI="#Con_sư_tử_với_bờm_đỏ_và_khuôn_mặt_hình_trái_tim"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_trâu_vàng"/>
+        <NamedIndividual IRI="#Con_trâu_vàng"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_đại_bàng_Philippines"/>
+        <NamedIndividual IRI="#Con_đại_bàng_Philippines"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#PhuKien"/>
         <NamedIndividual IRI="#Cung"/>
     </ClassAssertion>
@@ -3451,6 +3713,10 @@
     <ClassAssertion>
         <Class IRI="#SeaGames9"/>
         <NamedIndividual IRI="#Cầu_mây"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cậu_bé_Brunei"/>
+        <NamedIndividual IRI="#Cậu_bé_Brunei"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#The_Thao_Co"/>
@@ -3799,6 +4065,10 @@
     <ClassAssertion>
         <Class IRI="#PhuKien"/>
         <NamedIndividual IRI="#Hoa"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Hình_tượng_quả_bóng_xốp"/>
+        <NamedIndividual IRI="#Hình_tượng_quả_bóng_xốp"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#PhuKien"/>
@@ -4441,6 +4711,10 @@
         <NamedIndividual IRI="#Máy_tính"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Mèo_Korat_cầm_khèn_bè"/>
+        <NamedIndividual IRI="#Mèo_Korat_cầm_khèn_bè"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#PhuKien"/>
         <NamedIndividual IRI="#Mũ_bảo_hiểm"/>
     </ClassAssertion>
@@ -4451,6 +4725,10 @@
     <ClassAssertion>
         <Class IRI="#PhuKien"/>
         <NamedIndividual IRI="#Mặt_nạ_bảo_vệ"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Nhân_vật_khỉ_trắng_trong_thiên_sử_Ramayana"/>
+        <NamedIndividual IRI="#Nhân_vật_khỉ_trắng_trong_thiên_sử_Ramayana"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#PhuKien"/>
@@ -5717,6 +5995,10 @@
         <NamedIndividual IRI="#Đua_thuyền_Rowing"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Đôi_cú"/>
+        <NamedIndividual IRI="#Đôi_cú"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#PhuKien"/>
         <NamedIndividual IRI="#Đĩa_tạ"/>
     </ClassAssertion>
@@ -5815,6 +6097,10 @@
     <ClassAssertion>
         <Class IRI="#PhuKien"/>
         <NamedIndividual IRI="#Đồng_hồ_đo_nhịp_tim"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào"/>
+        <NamedIndividual IRI="#&apos;&apos;Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào&apos;&apos;"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Seagame_3"/>
@@ -6187,6 +6473,14 @@
     <ClassAssertion>
         <Class IRI="#Seagame_3"/>
         <NamedIndividual IRI="#97_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
+        <NamedIndividual IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Đôi_thỏ_mặc_trang_phục_truyền_thống_Khmer._Borey_(xanh_dương),_Rumduol_(màu_đỏ)"/>
+        <NamedIndividual IRI="#Đôi_thỏ_mặc_trang_phục_truyền_thống_Khmer._Borey_(xanh_dương),_Rumduol_(màu_đỏ)"/>
     </ClassAssertion>
     <InverseObjectProperties>
         <ObjectProperty IRI="#Có_phụ_kiện_cho_môn_thể_thao_dưới_nướ_là"/>
