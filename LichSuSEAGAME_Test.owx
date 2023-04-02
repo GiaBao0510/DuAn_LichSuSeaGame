@@ -64,6 +64,42 @@
         <Class IRI="#Indonesia"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#KQ_Brunei"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KQ_Campuchia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KQ_Indonesia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KQ_Laos"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KQ_Malaysia"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KQ_Miến_Điện"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KQ_Myanmar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KQ_Pjilippines"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KQ_Singapore"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KQ_ThaiLand"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KQ_Timor_Leste"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KQ_VietNam"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#KetQua"/>
     </Declaration>
     <Declaration>
@@ -1152,6 +1188,54 @@
         <Class IRI="#QuocGia"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#KQ_Brunei"/>
+        <Class IRI="#KetQua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KQ_Campuchia"/>
+        <Class IRI="#KetQua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KQ_Indonesia"/>
+        <Class IRI="#KetQua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KQ_Laos"/>
+        <Class IRI="#KetQua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KQ_Malaysia"/>
+        <Class IRI="#KetQua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KQ_Miến_Điện"/>
+        <Class IRI="#KetQua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KQ_Myanmar"/>
+        <Class IRI="#KetQua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KQ_Pjilippines"/>
+        <Class IRI="#KetQua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KQ_Singapore"/>
+        <Class IRI="#KetQua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KQ_ThaiLand"/>
+        <Class IRI="#KetQua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KQ_Timor_Leste"/>
+        <Class IRI="#KetQua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KQ_VietNam"/>
+        <Class IRI="#KetQua"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#KetQua"/>
         <Class IRI="#SeaGame"/>
     </SubClassOf>
@@ -1469,6 +1553,20 @@
     <DisjointClasses>
         <Class IRI="#Indonesia"/>
         <Class IRI="#KetQua"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#KQ_Brunei"/>
+        <Class IRI="#KQ_Campuchia"/>
+        <Class IRI="#KQ_Indonesia"/>
+        <Class IRI="#KQ_Laos"/>
+        <Class IRI="#KQ_Malaysia"/>
+        <Class IRI="#KQ_Miến_Điện"/>
+        <Class IRI="#KQ_Myanmar"/>
+        <Class IRI="#KQ_Pjilippines"/>
+        <Class IRI="#KQ_Singapore"/>
+        <Class IRI="#KQ_ThaiLand"/>
+        <Class IRI="#KQ_Timor_Leste"/>
+        <Class IRI="#KQ_VietNam"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#KetQua"/>
