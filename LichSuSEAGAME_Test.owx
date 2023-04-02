@@ -409,9 +409,6 @@
         <Class IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Đôi_thỏ_mặc_trang_phục_truyền_thống_Khmer._Borey_(xanh_dương),_Rumduol_(màu_đỏ)"/>
-    </Declaration>
-    <Declaration>
         <ObjectProperty IRI="#Có_phụ_kiện_cho_môn_thể_thao_dưới_nướ_là"/>
     </Declaration>
     <Declaration>
@@ -1913,10 +1910,6 @@
         <Class IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
         <Class IRI="#LinhVat"/>
     </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Đôi_thỏ_mặc_trang_phục_truyền_thống_Khmer._Borey_(xanh_dương),_Rumduol_(màu_đỏ)"/>
-        <Class IRI="#LinhVat"/>
-    </SubClassOf>
     <DisjointClasses>
         <Class IRI="#Aerobic"/>
         <Class IRI="#Artistic"/>
@@ -1967,27 +1960,6 @@
         <Class IRI="#ThaiLand"/>
         <Class IRI="#Timor_Leste"/>
         <Class IRI="#VietNam"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#Con_Sao_la"/>
-        <Class IRI="#Con_gà_trống_ở_miền_núi_đầy_màu_sắc"/>
-        <Class IRI="#Con_hổ_Mã_Lai"/>
-        <Class IRI="#Con_mèo_Xiêm"/>
-        <Class IRI="#Con_mèo_Xiêm_cầm_ô_truyền_thống_Thái_Lan"/>
-        <Class IRI="#Con_rùa_vàng"/>
-        <Class IRI="#Con_sóc_vàng"/>
-        <Class IRI="#Con_sư_tử"/>
-        <Class IRI="#Con_sư_tử_với_bờm_đỏ_và_khuôn_mặt_hình_trái_tim"/>
-        <Class IRI="#Con_trâu_vàng"/>
-        <Class IRI="#Con_đại_bàng_Philippines"/>
-        <Class IRI="#Cậu_bé_Brunei"/>
-        <Class IRI="#Hình_tượng_quả_bóng_xốp"/>
-        <Class IRI="#Mèo_Korat_cầm_khèn_bè"/>
-        <Class IRI="#Nhân_vật_khỉ_trắng_trong_thiên_sử_Ramayana"/>
-        <Class IRI="#Đôi_cú"/>
-        <Class IRI="#Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào"/>
-        <Class IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
-        <Class IRI="#Đôi_thỏ_mặc_trang_phục_truyền_thống_Khmer._Borey_(xanh_dương),_Rumduol_(màu_đỏ)"/>
     </DisjointClasses>
     <DisjointClasses>
         <Class IRI="#Seagame_1"/>
@@ -6283,6 +6255,10 @@
         <NamedIndividual IRI="#1983"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Con_mèo_Xiêm"/>
+        <NamedIndividual IRI="#1985"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#NamToChuc"/>
         <NamedIndividual IRI="#1985"/>
     </ClassAssertion>
@@ -6299,12 +6275,20 @@
         <NamedIndividual IRI="#1987"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Con_rùa_vàng"/>
+        <NamedIndividual IRI="#1989"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#NamToChuc"/>
         <NamedIndividual IRI="#1989"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#SeaGames15"/>
         <NamedIndividual IRI="#1989"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_gà_trống_ở_miền_núi_đầy_màu_sắc"/>
+        <NamedIndividual IRI="#1991"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#NamToChuc"/>
@@ -6315,12 +6299,20 @@
         <NamedIndividual IRI="#1991"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Con_sư_tử"/>
+        <NamedIndividual IRI="#1993"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#NamToChuc"/>
         <NamedIndividual IRI="#1993"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#SeaGames17"/>
         <NamedIndividual IRI="#1993"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_mèo_Xiêm_cầm_ô_truyền_thống_Thái_Lan"/>
+        <NamedIndividual IRI="#1995"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#NamToChuc"/>
@@ -6335,8 +6327,16 @@
         <NamedIndividual IRI="#1997"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Nhân_vật_khỉ_trắng_trong_thiên_sử_Ramayana"/>
+        <NamedIndividual IRI="#1997"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#SeaGames19"/>
         <NamedIndividual IRI="#1997"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cậu_bé_Brunei"/>
+        <NamedIndividual IRI="#1999"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#NamToChuc"/>
@@ -6345,6 +6345,10 @@
     <ClassAssertion>
         <Class IRI="#SeaGames20"/>
         <NamedIndividual IRI="#1999"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_sóc_vàng"/>
+        <NamedIndividual IRI="#2001"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#NamToChuc"/>
@@ -6359,6 +6363,10 @@
         <NamedIndividual IRI="#2001"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Con_trâu_vàng"/>
+        <NamedIndividual IRI="#2003"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#NamToChuc"/>
         <NamedIndividual IRI="#2003"/>
     </ClassAssertion>
@@ -6367,12 +6375,20 @@
         <NamedIndividual IRI="#2003"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Con_đại_bàng_Philippines"/>
+        <NamedIndividual IRI="#2005"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#NamToChuc"/>
         <NamedIndividual IRI="#2005"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#SeaGames23"/>
         <NamedIndividual IRI="#2005"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Mèo_Korat_cầm_khèn_bè"/>
+        <NamedIndividual IRI="#2007"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#NamToChuc"/>
@@ -6391,11 +6407,19 @@
         <NamedIndividual IRI="#2009"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào"/>
+        <NamedIndividual IRI="#2009"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#NamToChuc"/>
         <NamedIndividual IRI="#2011"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#SeaGames26"/>
+        <NamedIndividual IRI="#2011"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
         <NamedIndividual IRI="#2011"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -6411,8 +6435,20 @@
         <NamedIndividual IRI="#2013"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Đôi_cú"/>
+        <NamedIndividual IRI="#2013"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_sư_tử_với_bờm_đỏ_và_khuôn_mặt_hình_trái_tim"/>
+        <NamedIndividual IRI="#2015"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#NamToChuc"/>
         <NamedIndividual IRI="#2015"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_hổ_Mã_Lai"/>
+        <NamedIndividual IRI="#2017"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#NamToChuc"/>
@@ -6423,12 +6459,20 @@
         <NamedIndividual IRI="#2017"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Hình_tượng_quả_bóng_xốp"/>
+        <NamedIndividual IRI="#2019"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#NamToChuc"/>
         <NamedIndividual IRI="#2019"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#SeaGames30"/>
         <NamedIndividual IRI="#2019"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Con_Sao_la"/>
+        <NamedIndividual IRI="#2021"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#NamToChuc"/>
@@ -6477,10 +6521,6 @@
     <ClassAssertion>
         <Class IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
         <NamedIndividual IRI="#Cặp_rồng_Komodo_Modo_(màu_lục)_và_Modi_(màu_trắng)"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Đôi_thỏ_mặc_trang_phục_truyền_thống_Khmer._Borey_(xanh_dương),_Rumduol_(màu_đỏ)"/>
-        <NamedIndividual IRI="#Đôi_thỏ_mặc_trang_phục_truyền_thống_Khmer._Borey_(xanh_dương),_Rumduol_(màu_đỏ)"/>
     </ClassAssertion>
     <InverseObjectProperties>
         <ObjectProperty IRI="#Có_phụ_kiện_cho_môn_thể_thao_dưới_nướ_là"/>
