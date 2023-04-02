@@ -1354,19 +1354,94 @@
         <NamedIndividual IRI="#227_Vang"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#66"/>
+        <NamedIndividual IRI="#232_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#233_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#234_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#245_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#245_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#251_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#251_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#259_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#265_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#302_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#303_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#313_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#315_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#318_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#328_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#330_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#334_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#338_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#351_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#371_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#373_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#378_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#398_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#400_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#414_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#433_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#448_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#542_Dong"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#66_Dong"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#67"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#67_Vang"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#68"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#68_bac"/>
@@ -6493,6 +6568,126 @@
     <ClassAssertion>
         <Class IRI="#Seagame_10"/>
         <NamedIndividual IRI="#227_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_20"/>
+        <NamedIndividual IRI="#232_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_12"/>
+        <NamedIndividual IRI="#233_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_12"/>
+        <NamedIndividual IRI="#234_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_20"/>
+        <NamedIndividual IRI="#234_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_11"/>
+        <NamedIndividual IRI="#245_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_11"/>
+        <NamedIndividual IRI="#245_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_13"/>
+        <NamedIndividual IRI="#251_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_13"/>
+        <NamedIndividual IRI="#251_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_13"/>
+        <NamedIndividual IRI="#259_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_11"/>
+        <NamedIndividual IRI="#265_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_12"/>
+        <NamedIndividual IRI="#265_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_15"/>
+        <NamedIndividual IRI="#302_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_15"/>
+        <NamedIndividual IRI="#303_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_20"/>
+        <NamedIndividual IRI="#313_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_17"/>
+        <NamedIndividual IRI="#315_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_17"/>
+        <NamedIndividual IRI="#318_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_16"/>
+        <NamedIndividual IRI="#328_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_18"/>
+        <NamedIndividual IRI="#330_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_16"/>
+        <NamedIndividual IRI="#334_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_18"/>
+        <NamedIndividual IRI="#338_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_15"/>
+        <NamedIndividual IRI="#351_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_14"/>
+        <NamedIndividual IRI="#371_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_14"/>
+        <NamedIndividual IRI="#373_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_17"/>
+        <NamedIndividual IRI="#378_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_14"/>
+        <NamedIndividual IRI="#398_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_16"/>
+        <NamedIndividual IRI="#400_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_18"/>
+        <NamedIndividual IRI="#414_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_19"/>
+        <NamedIndividual IRI="#433_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_19"/>
+        <NamedIndividual IRI="#448_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_19"/>
+        <NamedIndividual IRI="#542_Dong"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Seagame_1"/>
