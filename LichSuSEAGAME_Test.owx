@@ -64,43 +64,7 @@
         <Class IRI="#Indonesia"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#KQ_Brunei"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#KQ_Campuchia"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#KQ_Indonesia"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#KQ_Laos"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#KQ_Malaysia"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#KQ_Miến_Điện"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#KQ_Myanmar"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#KQ_Pjilippines"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#KQ_Singapore"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#KQ_ThaiLand"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#KQ_Timor_Leste"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#KQ_VietNam"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#KetQua"/>
+        <Class IRI="#Ket_Qua"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Khieu_vu_the_thao"/>
@@ -248,6 +212,99 @@
     </Declaration>
     <Declaration>
         <Class IRI="#SeaGames9"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_10"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_11"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_12"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_13"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_14"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_15"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_16"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_17"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_18"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_19"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_20"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_21"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_22"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_23"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_24"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_25"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_26"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_27"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_28"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_29"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_30"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_31"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_8"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seagame_9"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Singapore"/>
@@ -1027,6 +1084,66 @@
         <NamedIndividual IRI="#Đồng_hồ_đo_nhịp_tim"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#102_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#106_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#135_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#144_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#145_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#146_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#156_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#157_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#160_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#161_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#164_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#164_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#167_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#171_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#171_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#172_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#173_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#185_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#190_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#193_Dong"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#1959"/>
     </Declaration>
     <Declaration>
@@ -1119,6 +1236,42 @@
     <Declaration>
         <NamedIndividual IRI="#2021"/>
     </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#218_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#225_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#227_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#66"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#66_Dong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#67"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#67_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#68"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#68_bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#86_Vang"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#92_Bac"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#97_Bac"/>
+    </Declaration>
     <SubClassOf>
         <Class IRI="#Aerobic"/>
         <Class IRI="#MonTheThao"/>
@@ -1188,55 +1341,7 @@
         <Class IRI="#QuocGia"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#KQ_Brunei"/>
-        <Class IRI="#KetQua"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#KQ_Campuchia"/>
-        <Class IRI="#KetQua"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#KQ_Indonesia"/>
-        <Class IRI="#KetQua"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#KQ_Laos"/>
-        <Class IRI="#KetQua"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#KQ_Malaysia"/>
-        <Class IRI="#KetQua"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#KQ_Miến_Điện"/>
-        <Class IRI="#KetQua"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#KQ_Myanmar"/>
-        <Class IRI="#KetQua"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#KQ_Pjilippines"/>
-        <Class IRI="#KetQua"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#KQ_Singapore"/>
-        <Class IRI="#KetQua"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#KQ_ThaiLand"/>
-        <Class IRI="#KetQua"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#KQ_Timor_Leste"/>
-        <Class IRI="#KetQua"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#KQ_VietNam"/>
-        <Class IRI="#KetQua"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#KetQua"/>
+        <Class IRI="#Ket_Qua"/>
         <Class IRI="#SeaGame"/>
     </SubClassOf>
     <SubClassOf>
@@ -1432,6 +1537,130 @@
         <Class IRI="#KySeaGames"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Seagame_1"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_10"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_11"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_12"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_13"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_14"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_15"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_16"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_17"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_18"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_19"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_2"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_20"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_21"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_22"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_23"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_24"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_25"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_26"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_27"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_28"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_29"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_3"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_30"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_31"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_4"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_5"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_6"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_7"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_8"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seagame_9"/>
+        <Class IRI="#Ket_Qua"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Singapore"/>
         <Class IRI="#QuocGia"/>
     </SubClassOf>
@@ -1543,66 +1772,37 @@
         <Class IRI="#VietNam"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#Brunei"/>
-        <Class IRI="#KetQua"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#Campuchia"/>
-        <Class IRI="#KetQua"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#Indonesia"/>
-        <Class IRI="#KetQua"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#KQ_Brunei"/>
-        <Class IRI="#KQ_Campuchia"/>
-        <Class IRI="#KQ_Indonesia"/>
-        <Class IRI="#KQ_Laos"/>
-        <Class IRI="#KQ_Malaysia"/>
-        <Class IRI="#KQ_Miến_Điện"/>
-        <Class IRI="#KQ_Myanmar"/>
-        <Class IRI="#KQ_Pjilippines"/>
-        <Class IRI="#KQ_Singapore"/>
-        <Class IRI="#KQ_ThaiLand"/>
-        <Class IRI="#KQ_Timor_Leste"/>
-        <Class IRI="#KQ_VietNam"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#KetQua"/>
-        <Class IRI="#Laos"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#KetQua"/>
-        <Class IRI="#Malaysia"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#KetQua"/>
-        <Class IRI="#Miến_Điện"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#KetQua"/>
-        <Class IRI="#Myanmar"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#KetQua"/>
-        <Class IRI="#Philippines"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#KetQua"/>
-        <Class IRI="#Singapore"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#KetQua"/>
-        <Class IRI="#ThaiLand"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#KetQua"/>
-        <Class IRI="#Timor_Leste"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="#KetQua"/>
-        <Class IRI="#VietNam"/>
+        <Class IRI="#Seagame_1"/>
+        <Class IRI="#Seagame_10"/>
+        <Class IRI="#Seagame_11"/>
+        <Class IRI="#Seagame_12"/>
+        <Class IRI="#Seagame_13"/>
+        <Class IRI="#Seagame_14"/>
+        <Class IRI="#Seagame_15"/>
+        <Class IRI="#Seagame_16"/>
+        <Class IRI="#Seagame_17"/>
+        <Class IRI="#Seagame_18"/>
+        <Class IRI="#Seagame_19"/>
+        <Class IRI="#Seagame_2"/>
+        <Class IRI="#Seagame_20"/>
+        <Class IRI="#Seagame_21"/>
+        <Class IRI="#Seagame_22"/>
+        <Class IRI="#Seagame_23"/>
+        <Class IRI="#Seagame_24"/>
+        <Class IRI="#Seagame_25"/>
+        <Class IRI="#Seagame_26"/>
+        <Class IRI="#Seagame_27"/>
+        <Class IRI="#Seagame_28"/>
+        <Class IRI="#Seagame_29"/>
+        <Class IRI="#Seagame_3"/>
+        <Class IRI="#Seagame_30"/>
+        <Class IRI="#Seagame_31"/>
+        <Class IRI="#Seagame_4"/>
+        <Class IRI="#Seagame_5"/>
+        <Class IRI="#Seagame_6"/>
+        <Class IRI="#Seagame_7"/>
+        <Class IRI="#Seagame_8"/>
+        <Class IRI="#Seagame_9"/>
     </DisjointClasses>
     <ClassAssertion>
         <Class IRI="#Aerobic"/>
@@ -5617,6 +5817,90 @@
         <NamedIndividual IRI="#Đồng_hồ_đo_nhịp_tim"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Seagame_3"/>
+        <NamedIndividual IRI="#102_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_3"/>
+        <NamedIndividual IRI="#106_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_2"/>
+        <NamedIndividual IRI="#135_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_4"/>
+        <NamedIndividual IRI="#144_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_4"/>
+        <NamedIndividual IRI="#145_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_5"/>
+        <NamedIndividual IRI="#145_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_5"/>
+        <NamedIndividual IRI="#146_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_6"/>
+        <NamedIndividual IRI="#156_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_6"/>
+        <NamedIndividual IRI="#157_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_4"/>
+        <NamedIndividual IRI="#160_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_7"/>
+        <NamedIndividual IRI="#161_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_7"/>
+        <NamedIndividual IRI="#164_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_5"/>
+        <NamedIndividual IRI="#164_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_6"/>
+        <NamedIndividual IRI="#167_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_8"/>
+        <NamedIndividual IRI="#171_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_7"/>
+        <NamedIndividual IRI="#171_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_8"/>
+        <NamedIndividual IRI="#172_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_8"/>
+        <NamedIndividual IRI="#173_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_9"/>
+        <NamedIndividual IRI="#185_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_9"/>
+        <NamedIndividual IRI="#190_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_9"/>
+        <NamedIndividual IRI="#193_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#NamToChuc"/>
         <NamedIndividual IRI="#1959"/>
     </ClassAssertion>
@@ -5867,6 +6151,42 @@
     <ClassAssertion>
         <Class IRI="#SeaGames31"/>
         <NamedIndividual IRI="#2021"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_10"/>
+        <NamedIndividual IRI="#218_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_10"/>
+        <NamedIndividual IRI="#225_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_10"/>
+        <NamedIndividual IRI="#227_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_1"/>
+        <NamedIndividual IRI="#66_Dong"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_1"/>
+        <NamedIndividual IRI="#67_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_1"/>
+        <NamedIndividual IRI="#68_bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_2"/>
+        <NamedIndividual IRI="#86_Vang"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_2"/>
+        <NamedIndividual IRI="#92_Bac"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seagame_3"/>
+        <NamedIndividual IRI="#97_Bac"/>
     </ClassAssertion>
     <InverseObjectProperties>
         <ObjectProperty IRI="#Có_phụ_kiện_cho_môn_thể_thao_dưới_nướ_là"/>
