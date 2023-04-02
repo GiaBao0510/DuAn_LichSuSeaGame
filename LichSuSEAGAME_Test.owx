@@ -403,6 +403,99 @@
         <Class IRI="#Đôi_cú"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#1959"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1961"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1965"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1967"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1969"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1971"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1973"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1975"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1977"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1979"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1981"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1983"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1985"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1987"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1989"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1991"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1993"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1995"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1997"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1999"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2011"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2013"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2017"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2019"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2021"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào"/>
     </Declaration>
     <Declaration>
@@ -956,6 +1049,99 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Sambo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_10"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_11"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_12"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_13"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_14"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_15"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_16"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_17"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_18"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_19"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_20"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_21"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_22"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_23"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_24"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_25"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_26"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_27"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_28"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_29"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_31"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_5"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_6"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_7"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_8"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Seagame_9"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Singapore"/>
@@ -2077,6 +2263,130 @@
         <Class IRI="#LinhVat"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#1959"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1961"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1965"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1967"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1969"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1971"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1973"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1975"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1977"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1979"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1981"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1983"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1985"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1987"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1989"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1991"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1993"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1995"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1997"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1999"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2001"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2003"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2005"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2007"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2009"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2011"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2013"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2015"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2017"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2019"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2021"/>
+        <Class IRI="#NamToChuc"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Champa_(voi_trắng)_và_Champi_(voi_hồng)_mặc_trang_phục_truyền_thống_của_Lào"/>
         <Class IRI="#LinhVat"/>
     </SubClassOf>
@@ -2199,6 +2509,39 @@
         <Class IRI="#Seagame_7"/>
         <Class IRI="#Seagame_8"/>
         <Class IRI="#Seagame_9"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#1959"/>
+        <Class IRI="#1961"/>
+        <Class IRI="#1965"/>
+        <Class IRI="#1967"/>
+        <Class IRI="#1969"/>
+        <Class IRI="#1971"/>
+        <Class IRI="#1973"/>
+        <Class IRI="#1975"/>
+        <Class IRI="#1977"/>
+        <Class IRI="#1979"/>
+        <Class IRI="#1981"/>
+        <Class IRI="#1983"/>
+        <Class IRI="#1985"/>
+        <Class IRI="#1987"/>
+        <Class IRI="#1989"/>
+        <Class IRI="#1991"/>
+        <Class IRI="#1993"/>
+        <Class IRI="#1995"/>
+        <Class IRI="#1997"/>
+        <Class IRI="#1999"/>
+        <Class IRI="#2001"/>
+        <Class IRI="#2003"/>
+        <Class IRI="#2005"/>
+        <Class IRI="#2007"/>
+        <Class IRI="#2009"/>
+        <Class IRI="#2011"/>
+        <Class IRI="#2013"/>
+        <Class IRI="#2015"/>
+        <Class IRI="#2017"/>
+        <Class IRI="#2019"/>
+        <Class IRI="#2021"/>
     </DisjointClasses>
     <ClassAssertion>
         <Class IRI="#Aerobic"/>
@@ -5423,6 +5766,130 @@
     <ClassAssertion>
         <Class IRI="#Vo_thuat"/>
         <NamedIndividual IRI="#Sambo"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_10"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_11"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_12"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_13"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_14"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_15"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_16"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_17"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_18"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_19"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_20"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_21"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_22"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_23"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_24"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_25"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_26"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_27"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_28"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_29"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_31"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_5"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_7"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_8"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Ket_Qua"/>
+        <NamedIndividual IRI="#Seagame_9"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#QuocGia"/>
